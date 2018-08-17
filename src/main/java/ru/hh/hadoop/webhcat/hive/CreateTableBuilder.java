@@ -1,6 +1,7 @@
 package ru.hh.hadoop.webhcat.hive;
 
-import org.apache.commons.lang.StringUtils;
+import org.apache.commons.lang3.StringUtils;
+
 import javax.annotation.concurrent.NotThreadSafe;
 
 @NotThreadSafe
